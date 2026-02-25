@@ -1,4 +1,5 @@
 # Olá 👋, eu sou Arthur Andriws
+**` Estudando Ciência da Computação `**
 **` Dev Backend `**
 
 Meu nome é Arthur Andriws, no momento tenho 20 anos e sou natural de Minas Gerais. Me fornei no Colégio Tiradentes e atualmente estou cursando Ciência da Computação na Universidade Presidente Antônio Carlos (UNIPAC), onde a cada dia que passa me interesso cada vez mais na área. 
@@ -19,23 +20,10 @@ Meu nome é Arthur Andriws, no momento tenho 20 anos e sou natural de Minas Gera
 ###
 ### 📊 Estatísticas 
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=ArthurAnd&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurAnd&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arthurandriws-ctrl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=arthurandriws-ctrl&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 ###
 </br>
