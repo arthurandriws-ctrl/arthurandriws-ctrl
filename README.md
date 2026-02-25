@@ -5,6 +5,10 @@
 
 Meu nome é Arthur Andriws, no momento tenho 20 anos e sou natural de Minas Gerais. Me formei no Colégio Tiradentes e atualmente estou cursando Ciência da Computação na Universidade Presidente Antônio Carlos (UNIPAC), onde a cada dia que passa me interesso cada vez mais na área. 
 ##
+###
+"Que desgraça é para o homem envelhecer sem nunca ver a beleza e a força de que seu corpo é capaz!" 
+-Socrates
+###
 ### 📱Redes
 <div align="left">
   <a href="https://discord.com/users/623867643035648000">
@@ -14,7 +18,6 @@ Meu nome é Arthur Andriws, no momento tenho 20 anos e sou natural de Minas Gera
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
 </a>
 </div>
-
 ###
 ### 👨‍💻 Linguagens e IDES
 <div align="left">
@@ -26,13 +29,10 @@ Meu nome é Arthur Andriws, no momento tenho 20 anos e sou natural de Minas Gera
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
   <img width="12" />
-
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo" />
-
 </div>
-
 ###
 ### 📊 Estatísticas 
 
