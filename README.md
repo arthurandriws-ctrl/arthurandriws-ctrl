@@ -7,7 +7,9 @@ Meu nome é Arthur Andriws, no momento tenho 20 anos e sou natural de Minas Gera
 ##
 ### 📱Redes
 <div align="left">
+  <a href="https://discord.com/users/623867643035648000">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  </a>
     <a href="https://www.instagram.com/arthur_andriws/">
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
 </a>
