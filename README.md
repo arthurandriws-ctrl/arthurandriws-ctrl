@@ -14,7 +14,7 @@ Meu nome é Arthur Andriws, no momento tenho 20 anos e sou natural de Minas Gera
 </div>
 
 ###
-### 👨‍💻 Linguagens e Tecnologias
+### 👨‍💻 Linguagens e IDES
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
