@@ -17,6 +17,16 @@ Meu nome é Arthur Andriws, no momento tenho 20 anos e sou natural de Minas Gera
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
+  <img width="12" />
+
+  <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo" />
 
 </div>
 
