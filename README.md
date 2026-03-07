@@ -14,29 +14,30 @@ Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos
 </a>
 </div>
 
-###
+#
 
 ### 👨‍💻 Linguagens e IDES
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
   <img width="12" />
+  <br>
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo" />
+  <img width="12" />
 </div>
 
-###
+#
+
 ### 📊 Estatísticas 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=arthurandriws-ctrl&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=arthurandriws-ctrl&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
