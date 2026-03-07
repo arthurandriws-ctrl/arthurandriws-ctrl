@@ -1,7 +1,7 @@
 # Olá 👋, eu sou Arthur Andriws
 **` Dev Backend `**
 
-Meu nome é Arthur Andriws, no momento tenho 20 anos e sou natural de Minas Gerais. Me formei no Colégio Tiradentes e atualmente estou cursando Ciência da Computação na Universidade Presidente Antônio Carlos (UNIPAC), onde a cada dia que passa me interesso cada vez mais na área. 
+Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos. Depois de passar pelo Colégio Tiradentes, decidi mergulhar na Ciência da Computação na UNIPAC. O que começou como uma curiosidade virou um interesse real que só aumenta conforme avanço no curso e descubro novas possibilidades na área.
 ##
 
 ### 📱Redes
