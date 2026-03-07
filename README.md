@@ -46,9 +46,9 @@ Durante o ensino médio, desenvolvi um forte interesse por física teórica, par
 
 ### 📸 Registro da Visita Técnica: Usina Nuclear Angra 1
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/64e83f6c-4708-497e-a838-8d1c07e08143" width = "33%" alt="Vista Panorâmica da Usina Angra 1" />
-  <img src="https://github.com/user-attachments/assets/b5544f95-7d6c-4d91-842b-e96ce35ecfb9" width = "30%" alt="Área de Preservação Ambiental" />
-  <img src="https://github.com/user-attachments/assets/5de7ce1d-0066-4099-9de3-6128d966ad95" width = "30%" alt="Instalações da Usina" />
+  <img src="https://github.com/user-attachments/assets/64e83f6c-4708-497e-a838-8d1c07e08143" width = "35%" alt="Vista Panorâmica da Usina Angra 1" />
+  <img src="https://github.com/user-attachments/assets/b5544f95-7d6c-4d91-842b-e96ce35ecfb9" width = "32%" alt="Área de Preservação Ambiental" />
+  <img src="https://github.com/user-attachments/assets/5de7ce1d-0066-4099-9de3-6128d966ad95" width = "32%" alt="Instalações da Usina" />
 </div>
 
 #
