@@ -26,6 +26,8 @@ Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vscode" height="60" alt="vscode logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=pycharm" height="60" alt="pycharm logo" />
