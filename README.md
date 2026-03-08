@@ -1,9 +1,10 @@
 # Olá 👋, eu sou Arthur Andriws
 **` Dev Backend `**
 
+
 Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos. Depois de passar pelo Colégio Tiradentes, decidi mergulhar na Ciência da Computação na UNIPAC. O que começou como uma curiosidade virou um interesse real que só aumenta conforme avanço no curso e descubro novas possibilidades na área.
 
-#
+---
 
 ### 📱Redes
 <div align="left">
@@ -41,12 +42,12 @@ Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos
   <img src="https://streak-stats.demolab.com?user=arthurandriws-ctrl&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-#
+---
 
 ### 🚀 Projetos Pessoais 
 #
-**` 100% Python `** <br>
-### Analista de URL's
+### 🕵️‍♂️ [Analista de URL's](https://github.com/arthurandriws-ctrl/Resumo_de_videos/blob/4eda87c5290851dd49a6669af0d9907b7f668471/analise_url.py)
+Tecnologia : **` 100% Python `** <br>
 
 O objetivo deste projeto é otimizar a extração de informações e a síntese de conteúdos de vídeos do YouTube de forma ágil. A solução consiste em um assistente baseado em Inteligência Artificial, desenvolvido para interpretar e processar dados diretamente de URLs.
 
@@ -78,7 +79,7 @@ GOOGLE_API_KEY=sua_chave_aqui
 
 Importante: Recomenda-se a inclusão do arquivo .env no seu .gitignore para evitar a exposição inadvertida de suas credenciais em repositórios públicos.
 
-#
+---
 
 ### 🔎 Curiosidade sobre mim 
 Durante o ensino médio, desenvolvi um forte interesse por física teórica, participando de competições como a OBFEP (Olimpíada Brasileira de Física das Escolas Públicas) e realizando a segunda fase na EPCAR. No campo teórico, temas como radiação, fusão e fissão nuclear sempre me despertaram atenção, levando-me a manter, até hoje, uma rotina de estudos sobre o funcionamento de centrais nucleares e a análise de eventos históricos, como os acidentes de Fukushima e Chernobyl. Adicionalmente, por meio de uma visita técnica promovida pelo Colégio Tiradentes, tive a oportunidade de conhecer as instalações da Usina Angra 1, em Angra dos Reis (RJ), onde pude observar a complexidade da operação e o compromisso com a preservação das zonas ambientais do entorno.
