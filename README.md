@@ -47,7 +47,7 @@ Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos
 ### 🚀 Projetos Pessoais 
 #
 ### 🕵️‍♂️ [Analista de URL's](https://github.com/arthurandriws-ctrl/Resumo_de_videos/blob/4eda87c5290851dd49a6669af0d9907b7f668471/analise_url.py)
-Tecnologia : **` 100% Python `** <br>
+Tecnologia : **` Python `** <br>
 
 O objetivo deste projeto é otimizar a extração de informações e a síntese de conteúdos de vídeos do YouTube de forma ágil. A solução consiste em um assistente baseado em Inteligência Artificial, desenvolvido para interpretar e processar dados diretamente de URLs.
 
@@ -59,14 +59,14 @@ Visando a viabilidade econômica e a redução de custos operacionais, optei pel
 A lógica do assistente foi estruturada a partir de estudos sobre agentes de IA e análise de arquiteturas de sistemas similares, como assistentes de planejamento de viagens. Com base nessas referências, a solução foi modelada especificamente para atuar como um Analista de URLs do YouTube, capaz de processar o conteúdo audiovisual e retornar insights estruturados ao usuário.
 
 **` Configuração `** <br>
-1. Gerenciamento de Dependências
+1. Gerenciamento de Dependências<br>
 O sistema depende de bibliotecas externas para o processamento de dados e integração com modelos de linguagem. Todas as especificações estão listadas no arquivo requirements.txt. Para instalá-las, utilize o gerenciador de pacotes pip:
 
 ```Bash
 pip install -r requirements.txt
 ```
 
-2. Configuração de Variáveis de Ambiente
+2. Configuração de Variáveis de Ambiente<br>
 Por diretrizes de segurança e boas práticas de desenvolvimento, as credenciais de acesso não devem ser expostas no código-fonte. O projeto utiliza um arquivo de configuração de ambiente (.env) para gerenciar chaves sensíveis.
 
 Criação do arquivo: Certifique-se de que o arquivo .env esteja presente na raiz do diretório.
