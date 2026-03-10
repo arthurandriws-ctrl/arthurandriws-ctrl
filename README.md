@@ -42,45 +42,24 @@ Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos
 
 ### 📊 Estatísticas 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=arthurandriws-ctrl&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=arthurandriws-ctrl&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=arthurandriws-ctrl&layout=compact&theme=merko&locale=pt-br&title_color=abd200" height="150" alt="languages graph"/>
 </div>
 
 ---
 
 ### 🚀 Projetos Pessoais 
 #
-### 🕵️‍♂️ [Analista de URL's](https://github.com/arthurandriws-ctrl/Resumo_de_videos/blob/4eda87c5290851dd49a6669af0d9907b7f668471/analise_url.py)
+### 🕵️‍♂️ [Analista de URL's](https://github.com/arthurandriws-ctrl/Analista-de-URLs/blob/4ef8630a1aaaf37fa3490df006139f2f9ce632c5/analise_url.py)
 Tecnologia : **` Python `** <br>
 
-O objetivo deste projeto é otimizar a extração de informações e a síntese de conteúdos de vídeos do YouTube de forma ágil. A solução consiste em um assistente baseado em Inteligência Artificial, desenvolvido para interpretar e processar dados diretamente de URLs.
+Modelo de IA : **`Gemini 2.5 Flash`**
 
-**` Escolha do Modelo de Linguagem `** <br>
-Durante a fase de planejamento, foi avaliada a implementação da API da OpenAI. No entanto, o modelo GPT-4 exige um aporte financeiro inicial mínimo (créditos de $5 USD) para a ativação da chave de API.
-Visando a viabilidade econômica e a redução de custos operacionais, optei pela utilização do modelo Gemini 2.5 Flash, da Google
-
-**` Desenvolvimento e Arquitetura`** <br>
-A lógica do assistente foi estruturada a partir de estudos sobre agentes de IA e análise de arquiteturas de sistemas similares, como assistentes de planejamento de viagens. Com base nessas referências, a solução foi modelada especificamente para atuar como um Analista de URLs do YouTube, capaz de processar o conteúdo audiovisual e retornar insights estruturados ao usuário.
-
-**` Configuração `** <br>
-1. Gerenciamento de Dependências<br>
-O sistema depende de bibliotecas externas para o processamento de dados e integração com modelos de linguagem. Todas as especificações estão listadas no arquivo requirements.txt. Para instalá-las, utilize o gerenciador de pacotes pip:
-
-```Bash
-pip install -r requirements.txt
-```
-
-2. Configuração de Variáveis de Ambiente<br>
-Por diretrizes de segurança e boas práticas de desenvolvimento, as credenciais de acesso não devem ser expostas no código-fonte. O projeto utiliza um arquivo de configuração de ambiente (.env) para gerenciar chaves sensíveis.
-
-Criação do arquivo: Certifique-se de que o arquivo .env esteja presente na raiz do diretório.
-
-Atribuição da Chave: Insira sua credencial da Google AI API seguindo o padrão abaixo:
-
-```Snippet de código
-GOOGLE_API_KEY=sua_chave_aqui
-```
-
-Importante: Recomenda-se a inclusão do arquivo .env no seu .gitignore para evitar a exposição inadvertida de suas credenciais em repositórios públicos.
+Objetivo : 
+- Integração de LLMs
+- Processamento de Dados Não Estruturados: Automatizar a extração e o tratamento de metadados
+- Síntese Inteligente de Informação
+- Otimização de Fluxo de Trabalho: Gerar ferramentas que transformem consumo passivo de vídeo em material de estudo
 
 ---
 
