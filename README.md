@@ -51,7 +51,7 @@ Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos
 ### 🚀 Projetos Pessoais 
 #
 ### 🕵️‍♂️ [Analista de URL's](https://github.com/arthurandriws-ctrl/Analista-de-URLs/blob/4ef8630a1aaaf37fa3490df006139f2f9ce632c5/analise_url.py)
-Tecnologia : **` Python `** <br>
+Tecnologia: **` Python `** <br>
 
 Modelo de IA : **`Gemini 2.5 Flash`**
 
@@ -60,6 +60,18 @@ Objetivo :
 - Processamento de Dados Não Estruturados: Automatizar a extração e o tratamento de metadados
 - Síntese Inteligente de Informação
 - Otimização de Fluxo de Trabalho: Gerar ferramentas que transformem consumo passivo de vídeo em material de estudo
+
+#
+### Assistente Pessoal 🤖 (Inspirado no Jarvis)
+Desenvolvimento em andamento❗<br>
+Tecnologia: **` Python `** <br>
+Objetivo: 
+- Por que adquirir um assistente, se posso fazer um?
+- Criar um assistente movido por IA para comunicar com o usuário, agendar e realizar funções
+
+Composição: 
+- Mediapipe
+- Langchain
 
 ---
 
