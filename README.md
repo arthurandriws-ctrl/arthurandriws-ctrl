@@ -1,5 +1,5 @@
 # Olá 👋, eu sou Arthur Andriws
-**` Dev Backend `**
+**`Computer Scientist`** **` Dev Backend `**
 
 
 Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos. Depois de passar pelo Colégio Tiradentes, decidi mergulhar na Ciência da Computação na UNIPAC. O que começou como uma curiosidade virou um interesse real que só aumenta conforme avanço no curso e descubro novas possibilidades na área.
