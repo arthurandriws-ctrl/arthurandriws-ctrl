@@ -62,17 +62,14 @@ Objetivo :
 - Otimização de Fluxo de Trabalho: Gerar ferramentas que transformem consumo passivo de vídeo em material de estudo
 
 #
-### Assistente Pessoal 🤖 (Inspirado no Jarvis)
+### Traduto de libras
 Desenvolvimento em andamento❗<br>
 Tecnologia: **` Python `** <br>
-Objetivo: 
-- Por que adquirir um assistente, se posso fazer um?
-- Criar um assistente movido por IA para comunicar com o usuário, agendar e realizar funções
 
 Composição: 
 - Mediapipe
 - Langchain
-
+- Possivelmente, adiquirir um esp 32
 ---
 
 ### 🔎 Curiosidade sobre mim 
