@@ -53,7 +53,7 @@ Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos
 ### 🕵️‍♂️ [Analista de URL's](https://github.com/arthurandriws-ctrl/Analista-de-URLs/blob/4ef8630a1aaaf37fa3490df006139f2f9ce632c5/analise_url.py)
 Tecnologia: **` Python `** <br>
 
-Modelo de IA : **`Gemini 2.5 Flash`**
+Modelo de IA: **`Gemini 2.5 Flash`**
 
 Objetivo : 
 - Integração de LLMs
@@ -62,15 +62,16 @@ Objetivo :
 - Otimização de Fluxo de Trabalho: Gerar ferramentas que transformem consumo passivo de vídeo em material de estudo
 
 #
-### Traduto de libras
-Desenvolvimento em andamento❗<br>
-Tecnologia: **` Python `** <br>
+### 📚 [Quest - Site de Questões]()
+**`Em desenvolvimento...`**<br><br>
+Tecnologias: **`Python`** **`HTML`** **`CSS`** **`SQL`**
 
-Composição: 
-- Mediapipe
-- Langchain
-- Possivelmente, adiquirir um esp 32
----
+Objetivo: 
+- Feito de estudantes para estudantes
+- Fornecer um repertório de questões do ENEM e PISM
+- Simulados e assistente de IA para treinar suas habilidades
+
+#
 
 ### 🔎 Curiosidade sobre mim 
 Durante o ensino médio, desenvolvi um forte interesse por física teórica, participando de competições como a OBFEP (Olimpíada Brasileira de Física das Escolas Públicas) e realizando a segunda fase na EPCAR. No campo teórico, temas como radiação, fusão e fissão nuclear sempre me despertaram atenção, levando-me a manter, até hoje, uma rotina de estudos sobre o funcionamento de centrais nucleares e a análise de eventos históricos, como os acidentes de Fukushima e Chernobyl. Adicionalmente, por meio de uma visita técnica promovida pelo Colégio Tiradentes, tive a oportunidade de conhecer as instalações da Usina Angra 1, em Angra dos Reis (RJ), onde pude observar a complexidade da operação e o compromisso com a preservação das zonas ambientais do entorno.
