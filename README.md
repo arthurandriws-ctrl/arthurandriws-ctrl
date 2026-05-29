@@ -1,5 +1,5 @@
 # Olá 👋, eu sou Arthur Andriws
-**`Computer Scientist`** **` Dev FullStack `**
+**`Computer Scientist`** **` Dev Backend `**
 
 
 Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos. Depois de passar pelo Colégio Tiradentes, decidi mergulhar na Ciência da Computação na UNIPAC. O que começou como uma curiosidade virou um interesse real que só aumenta conforme avanço no curso e descubro novas possibilidades na área.
@@ -24,6 +24,8 @@ Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos
 ### 👨‍💻 Linguagens e IDES
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
   <img width="12" />
