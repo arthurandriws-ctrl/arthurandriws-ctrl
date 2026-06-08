@@ -52,6 +52,11 @@ Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos
 
 ### 🚀 Projetos Pessoais 
 #
+
+### [Análise de Perfil Financeiro](https://github.com/arthurandriws-ctrl/Analise-Perfil-Financeiro)
+
+
+#
 ### 🕵️‍♂️ [Analista de URL's](https://github.com/arthurandriws-ctrl/Analista-de-URLs/blob/4ef8630a1aaaf37fa3490df006139f2f9ce632c5/analise_url.py)
 Tecnologia: **` Python `** <br>
 
