@@ -54,10 +54,13 @@ Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos
 #
 
 ### 📈 [Análise de Perfil Financeiro](https://github.com/arthurandriws-ctrl/Analise-Perfil-Financeiro)
-**``Produzido em equipe - Instituto de  Serviço Nacional de Aprendizagem Comercial (SENAC)``**
-<img src="./assets/senac.svg" height="60" alt="Senac logo" />
-<img width="12" /> <br><br>
+**``Produzido em equipe ``**
+<img src="./senac-logo-2.png" height="30" alt="Senac logo" />
+<img width="12" />
+<br>
+
 Linguagens: **`Python`** **`HTML/CSS/JS + BootStrap`** **`SQL`** <br>
+
 Modelo de IA: **`Gemini 2.5 Flash`**<br>
 
 Objetivos: 
