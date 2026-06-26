@@ -53,7 +53,10 @@ Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos
 ### 🚀 Projetos Pessoais 
 #
 
-### [Análise de Perfil Financeiro](https://github.com/arthurandriws-ctrl/Analise-Perfil-Financeiro)
+### 📈 [Análise de Perfil Financeiro](https://github.com/arthurandriws-ctrl/Analise-Perfil-Financeiro)
+**``Produzido em equipe - Instituto de  Serviço Nacional de Aprendizagem Comercial (SENAC)``**
+<img src="./assets/senac.svg" height="60" alt="Senac logo" />
+<img width="12" /> <br><br>
 Linguagens: **`Python`** **`HTML/CSS/JS + BootStrap`** **`SQL`** <br>
 Modelo de IA: **`Gemini 2.5 Flash`**<br>
 
@@ -64,9 +67,7 @@ Objetivos:
 
 #
 ### 🕵️‍♂️ [Analista de URL's](https://github.com/arthurandriws-ctrl/Analista-de-URLs/blob/4ef8630a1aaaf37fa3490df006139f2f9ce632c5/analise_url.py)
-Linguagem: **` Python `** <br>
-
-
+Linguagem: **` Python `** <br><br>
 Modelo de IA: **`Gemini 2.5 Flash`**
 
 Objetivos: 
