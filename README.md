@@ -54,15 +54,22 @@ Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos
 #
 
 ### [Análise de Perfil Financeiro](https://github.com/arthurandriws-ctrl/Analise-Perfil-Financeiro)
+Linguagens: **`Python`** **`HTML/CSS/JS + BootStrap`** **`SQL`** <br>
+Modelo de IA: **`Gemini 2.5 Flash`**<br>
 
+Objetivos: 
+- Diagnosticar Perfil Financeiro
+- Propor dicas e estástisticas
+- Fornecer ensinamento para amadurecimento econômico
 
 #
 ### 🕵️‍♂️ [Analista de URL's](https://github.com/arthurandriws-ctrl/Analista-de-URLs/blob/4ef8630a1aaaf37fa3490df006139f2f9ce632c5/analise_url.py)
-Tecnologia: **` Python `** <br>
+Linguagem: **` Python `** <br>
+
 
 Modelo de IA: **`Gemini 2.5 Flash`**
 
-Objetivo : 
+Objetivos: 
 - Integração de LLMs
 - Processamento de Dados Não Estruturados: Automatizar a extração e o tratamento de metadados
 - Síntese Inteligente de Informação
@@ -71,9 +78,9 @@ Objetivo :
 #
 ### 📚 [Quest - Site de Questões](https://github.com/arthurandriws-ctrl/Quest.git)
 **`Em desenvolvimento...`**<br><br>
-Tecnologias: **`Python`** **`HTML`** **`CSS`** **`SQL`**
+Linguagens: **`Python`** **`HTML`** **`CSS`** **`SQL`**
 
-Objetivo: 
+Objetivos: 
 - Feito de estudantes para estudantes
 - Fornecer um repertório de questões do ENEM e PISM
 - Simulados e assistente de IA para treinar suas habilidades
