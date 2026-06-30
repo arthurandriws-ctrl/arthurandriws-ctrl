@@ -53,7 +53,7 @@ Meu nome é Arthur Andriws, sou mineiro e um entusiasta da tecnologia de 20 anos
 ### 🚀 Projetos Pessoais 
 #
 
-### 📈 [Análise de Perfil Financeiro](https://github.com/arthurandriws-ctrl/Analise-Perfil-Financeiro)
+### 📈 [PsicoFinanças](https://github.com/arthurandriws-ctrl/Analise-Perfil-Financeiro)
 **``Produzido em equipe ``**
 <img src="./senac-logo-2.png" height="30" alt="Senac logo" />
 <img width="12" />
