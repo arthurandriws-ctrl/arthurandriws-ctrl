@@ -108,14 +108,9 @@ Objetivos:
 - Otimização de Fluxo de Trabalho: Gerar ferramentas que transformem consumo passivo de vídeo em material de estudo
 
 #
-### 📚 [Quest - Site de Questões](https://github.com/arthurandriws-ctrl/Quest.git)
+### 📺 [LibraryVid](https://github.com/arthurandriws-ctrl/LibraryVid.git)
 **`Em desenvolvimento...`**<br><br>
 Linguagens: **`Python`** **`HTML`** **`CSS`** **`SQL`**
-
-Objetivos: 
-- Feito de estudantes para estudantes
-- Fornecer um repertório de questões do ENEM e PISM
-- Simulados e assistente de IA para treinar suas habilidades
 
 #
 
