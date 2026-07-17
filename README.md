@@ -87,7 +87,7 @@ ________________________________________________________________________________
 <img width="12" />
 <br>
 
-Linguagens: **`Python`** **`HTML/CSS/JS + BootStrap`** **`SQL`** <br>
+Linguagens: **`Python`** **`HTML/CSS/JS + BootStrap`** <br>
 
 Modelo de IA: **`Gemini 2.5 Flash`**<br>
 
@@ -110,7 +110,7 @@ Objetivos:
 #
 ### 📺 [LibraryVid](https://github.com/arthurandriws-ctrl/LibraryVid.git)
 **`Em desenvolvimento...`**<br><br>
-Linguagens: **`Python`** **`HTML`** **`CSS`** **`SQL`**
+Linguagens: **`Python`** **`HTML/CSS/JS  + BootStrap`**
 
 #
 
