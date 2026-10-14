@@ -42,15 +42,14 @@
 #
 
 ### 📊 Estatísticas 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=arthurandriws-ctrl&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=arthurandriws-ctrl&layout=compact&theme=merko&locale=pt-br&title_color=abd200" height="150" alt="languages graph"/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arthurandriws-ctrl&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"/>
 </div>
 
 ---
 
 ### 🚀 Projetos Pessoais 
-#
+
 
 ### 📈 [PsicoFinanças](https://github.com/arthurandriws-ctrl/Analise-Perfil-Financeiro)
 **``Produzido em equipe ``**
@@ -67,23 +66,36 @@ Objetivos:
 - Propor dicas e estástisticas
 - Fornecer ensinamento para amadurecimento econômico
 
+**`Amostra 📸`**
+
+#
+
+### 📺 [LibraryVid](https://github.com/arthurandriws-ctrl/LibraryVid.git)
+**`Em desenvolvimento...`**<br><br>
+
+Linguagens: **`Python`** **`HTML/CSS/JS  + BootStrap`**
+
+Objetivos e Funcionalidades: 
+- Armazenar, organizar e recomendar conteúdo informativo
+- Tornar o lazer de fácil acesso e compartilhável
+- Aprofundar mais a cerca do conteúdo armazenado
+- Sistema de avaliação personalizado
+
+**`Amostra 📸`**
+
+
 #
 ### 🕵️‍♂️ [Analista de URL's](https://github.com/arthurandriws-ctrl/Analista-de-URLs/blob/4ef8630a1aaaf37fa3490df006139f2f9ce632c5/analise_url.py)
 Linguagem: **` Python `** <br><br>
 Modelo de IA: **`Gemini 2.5 Flash`**
 
 Objetivos: 
-- Integração de LLMs
 - Processamento de Dados Não Estruturados: Automatizar a extração e o tratamento de metadados
 - Síntese Inteligente de Informação
 - Otimização de Fluxo de Trabalho: Gerar ferramentas que transformem consumo passivo de vídeo em material de estudo
 
 #
-### 📺 [LibraryVid](https://github.com/arthurandriws-ctrl/LibraryVid.git)
-**`Em desenvolvimento...`**<br><br>
-Linguagens: **`Python`** **`HTML/CSS/JS  + BootStrap`**
 
-#
 
 ### 🔎 Curiosidade sobre mim 
 Durante o ensino médio, desenvolvi um forte interesse por física teórica, participando de competições como a OBFEP (Olimpíada Brasileira de Física das Escolas Públicas) e realizando a segunda fase na EPCAR. No campo teórico, temas como radiação, fusão e fissão nuclear sempre me despertaram atenção, levando-me a manter, até hoje, uma rotina de estudos sobre o funcionamento de centrais nucleares e a análise de eventos históricos, como os acidentes de Fukushima e Chernobyl. Adicionalmente, por meio de uma visita técnica promovida pelo Colégio Tiradentes, tive a oportunidade de conhecer as instalações da Usina Angra 1, em Angra dos Reis (RJ), onde pude observar a complexidade da operação e o compromisso com a preservação das zonas ambientais do entorno.
