@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Arthur%20Andriws&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Computer%20Scientist%20%7C%20Dev%20Backend&descAlignY=58" alt="Banner Arthur Andriws" />
 
 <a href="https://github.com/arthurandriws-ctrl">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=7289DA&center=true&vCenter=true&width=620&lines=Olá+👋,+eu+sou+o+Arthur;Estudante+de+Ciência+da+Computação;Backend+%7C+Python+%7C+IA+aplicada" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1200&color=7289DA&center=true&vCenter=true&width=620&lines=Ol%C3%A1%2C+eu+sou+o+Arthur;Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Backend+%7C+Python+%7C+IA+aplicada" alt="Typing SVG" />
 </a>
 
 <br><br>
