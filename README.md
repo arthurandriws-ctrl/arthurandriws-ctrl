@@ -51,16 +51,20 @@ Hoje meu foco é **desenvolvimento backend**, com **Python** e **integração co
 <div align="center">
 
 **Linguagens e Frontend**<br>
-<img src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap" alt="Linguagens" />
+<img src="https://skillicons.dev/icons?i=py,js,html,css,bootstrap" alt="Linguagens e Frontend" />
 
 **Banco de Dados**<br>
-<img src="https://skillicons.dev/icons?i=mysql" alt="Banco de dados" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Banco de dados" />
 
-**IDEs**<br>
-<img src="https://skillicons.dev/icons?i=vscode,pycharm" alt="IDEs" />
+**Versionamento e IDEs**<br>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" alt="Git, GitHub e IDEs" />
 
 **Inteligência Artificial**<br>
 <img src="https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+
+**Hardware**<br>
+<img src="https://img.shields.io/badge/Desbloqueio_de_Consoles-555555?style=for-the-badge" alt="Desbloqueio de consoles" />
 
 </div>
 
