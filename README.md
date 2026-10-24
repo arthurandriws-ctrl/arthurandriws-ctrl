@@ -63,7 +63,7 @@ Hoje meu foco é **desenvolvimento backend**, com **Python** e **integração co
 <img src="https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 
-**Hardware**<br>
+**Hardware / Software**<br>
 <img src="https://img.shields.io/badge/Desbloqueio_de_Consoles-555555?style=for-the-badge" alt="Desbloqueio de consoles" />
 
 </div>
