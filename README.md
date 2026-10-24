@@ -38,7 +38,7 @@ Hoje meu foco é **desenvolvimento backend**, com **Python** e **integração co
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="30" alt="Gmail" />
   </a>
 
-  <a href="https://www.linkedin.com/in/SEU-USUARIO/](https://www.linkedin.com/in/arthur-andriws-97b76a3b9/">
+  <a href="https://www.linkedin.com/in/arthur-andriws-97b76a3b9/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0A66C2&logoColor=white&style=for-the-badge" height="30" alt="LinkedIn" />
   </a>
   
