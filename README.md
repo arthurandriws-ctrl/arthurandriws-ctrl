@@ -107,7 +107,7 @@ Hoje meu foco é **desenvolvimento backend**, com **Python** e **integração co
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <h3>🕵️‍♂️ <a href="https://github.com/arthurandriws-ctrl/Analista-de-URLs/blob/4ef8630a1aaaf37fa3490df006139f2f9ce632c5/analise_url.py">Analista de URLs</a></h3>
+      <h3>🕵️‍♂️ <a href="https://github.com/arthurandriws-ctrl/Analista-de-URLs/blob/4ef8630a1aaaf37fa3490df006139f2f9ce632c5/README.md">Analista de URLs</a></h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
       <img src="https://img.shields.io/badge/Gemini_2.5_Flash-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini" />
       <br><br>
