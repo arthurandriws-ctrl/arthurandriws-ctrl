@@ -93,7 +93,7 @@ Hoje meu foco é **desenvolvimento backend**, com **Python** e **integração co
         <li>Propor dicas e estatísticas</li>
         <li>Oferecer conteúdo para o amadurecimento econômico</li>
       </ul>
-      <!-- Adicione um print: <img src="./caminho/print-psicofinancas.png" alt="Amostra PsicoFinanças" /> -->
+      <img width="1280" height="652" alt="Image" src="https://github.com/user-attachments/assets/5c322641-bb12-4240-97bf-8f8e9ce79c19" />
     </td>
     <td width="50%" valign="top">
       <h3>📺 <a href="https://github.com/arthurandriws-ctrl/LibraryVid">LibraryVid</a></h3>
