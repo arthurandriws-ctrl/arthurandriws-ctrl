@@ -63,8 +63,12 @@ Hoje meu foco é **desenvolvimento backend**, com **Python** e **integração co
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
 
+
 **Hardware / Software**<br>
-<img src="https://img.shields.io/badge/Desbloqueio_de_Consoles-555555?style=for-the-badge" alt="Desbloqueio de consoles" />
+<img src="https://img.shields.io/badge/Desbloqueio_de_Consoles-E60012?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAxN2MxLjEgMCAyLS45IDItMnMtLjktMi0yLTItMiAuOS0yIDIgLjkgMiAyIDJ6bTYtOWgtMVY2YzAtMi43Ni0yLjI0LTUtNS01UzcgMy4yNCA3IDZoMS45YzAtMS43MSAxLjM5LTMuMSAzLjEtMy4xIDEuNzEgMCAzLjEgMS4zOSAzLjEgMy4xdjJINmMtMS4xIDAtMiAuOS0yIDJ2MTBjMCAxLjEuOSAyIDIgMmgxMmMxLjEgMCAyLS45IDItMlYxMGMwLTEuMS0uOS0yLTItMnptMCAxMkg2VjEwaDEydjEweiIvPjwvc3ZnPg==" alt="Desbloqueio de Consoles" />
+<img src="https://img.shields.io/badge/Virtual_Machine-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" alt="Virtual Machine" />
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
+
 
 </div>
 
