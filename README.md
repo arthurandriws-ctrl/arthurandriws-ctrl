@@ -21,7 +21,7 @@
 
 Sou **mineiro**, tenho **20 anos** e sou apaixonado por tecnologia. Depois de passar pelo **Colégio Tiradentes**, mergulhei na **Ciência da Computação na UNIPAC**. O que começou como curiosidade virou um interesse real, que só cresce a cada nova possibilidade que descubro na área.
 
-Hoje meu foco é **desenvolvimento backend**, com **Python** e **integração com IA** (Gemini) para construir ferramentas que realmente ajudam as pessoas.
+Hoje meu foco é **desenvolvimento backend**, com **Python** e **integração com IA** para construir ferramentas que realmente ajudam as pessoas.
 
 ---
 
