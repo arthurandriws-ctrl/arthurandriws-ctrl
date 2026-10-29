@@ -60,7 +60,7 @@ Hoje meu foco é **desenvolvimento backend**, com **Python** e **integração co
 <img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
 
 **Versionamento e IDEs**<br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" alt="Git, GitHub e IDEs" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub e IDEs" />
 
 **Inteligência Artificial**<br>
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" />
