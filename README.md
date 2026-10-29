@@ -56,6 +56,9 @@ Hoje meu foco é **desenvolvimento backend**, com **Python** e **integração co
 **Banco de Dados**<br>
 <img src="https://skillicons.dev/icons?i=mysql,postgres" alt="Banco de dados" />
 
+**Contêineres e DevOps**<br>
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" />
+
 **Versionamento e IDEs**<br>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm" alt="Git, GitHub e IDEs" />
 
